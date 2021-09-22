@@ -1,2 +1,3 @@
 # standardized-code-solving
-A standardized approach to solving coding problems
+
+The Standardized Approach to Solving Coding Problems is a simple but extremely effective method for solving most coding problems that you might encounter.
